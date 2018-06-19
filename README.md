@@ -1,2 +1,3 @@
 # Mastermind-Recreation
-Created in Grade 11
+- Main entry point is **classes/ArieMastermind.class**
+- Created in Grade 11
